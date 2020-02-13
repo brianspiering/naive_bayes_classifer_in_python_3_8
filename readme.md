@@ -10,6 +10,6 @@ TODO
 Follow Along
 -----
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianspiering/problem_solving_in_multiple_programming_paradigms/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianspiering/naive_bayes_classifer_in_python_3_8/master)
 
 Link to the repo - [bit.ly/TODO](https://bit.ly/TODO)
