@@ -7,8 +7,3 @@ Abstract
 Python 3.8 has many improvements to the `statistics`. One improvement is adding in `NormalDist` which is the Normal Distribution.
 
 `NormalDist` allows for the easy construction of a Naive Bayes Classifier. 
-
-Follow Along
------
-
-[![Run on Repl.it](https://repl.it/badge/brianspiering/NaiveBayes)](https://repl.it/github/brianspiering/NaiveBayes)
