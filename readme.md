@@ -11,6 +11,4 @@ Python 3.8 has many improvements to the `statistics`. One improvement is adding 
 Follow Along
 -----
 
-[![Run on Repl.it](https://repl.it/badge/github/brianspiering/naive_bayes_classifer_in_python_3_8)](https://repl.it/github/brianspiering/naive_bayes_classifer_in_python_3_8)
-
-Link to the repo - [bit.ly/py38-bayes](https://bit.ly/py38-bayes)
+[![Run on Repl.it](https://repl.it/badge/brianspiering/NaiveBayes)](https://repl.it/github/brianspiering/NaiveBayes)
